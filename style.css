@@ -1,0 +1,31 @@
+#bg-color-schema {
+  background-color: #BCBABF;
+  background-color: #83818C;
+  background-color: #565659;
+  background-color: #ECEBF2;
+  background-color: #5D8C87;
+}
+
+.sidebar {
+  min-height: 100vh;
+  background-color: #565659;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+}
+
+.navigation {
+  background-color: #BCBABF;
+}
+
+.right-wrapper {
+  min-height: 100vh;
+  background-color: #ECEBF2;
+}
+
+.sidebar-link:hover {
+  background-color: #5D8C87 !important;
+}
+
